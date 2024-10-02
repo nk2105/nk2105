@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nk2105
-- 👀 I’m interested in Robotics, AI and automation.
+- 👀 I’m interested in Robotics, AI/ML and automation.
 - 🌱 I’m currently working as a student and studying Masters in Mechatonics at FH Aachen.
 - 💞️ I’m looking to collaborate on ROS projects but not limited to that ;)
-- 📫 How to reach me ninad1052000@gmail.com
+- 📫 How to reach me ninad.vk21@gmail.com
 - ⚡ Fun fact: I use Github but also lift heavy stuff in the gym.
 
 <!---
